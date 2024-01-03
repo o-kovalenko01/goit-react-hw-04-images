@@ -1,4 +1,4 @@
-import css from './ImadeGallery.module.css';
+import css from './ImageGallery.module.css';
 
 export const ImageGalleryItem = ({ image, onClick }) => {
   return (
